@@ -5,4 +5,4 @@ AmongUs不同版本的BepInEx下载 不过多解释
 
 | AmongUs | download-下载 |
 |------|------|
-| 7.12| [download]()|
+| 7.12| [download](https://github.com/Bidge-CTG/BepInEx-For-AmongUS/releases/tag/au712)|
